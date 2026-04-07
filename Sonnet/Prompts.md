@@ -1,4 +1,6 @@
 A continuacion hay un enunciado de un desafio:
+
+
 Contexto
 El presente documento refiere a un desafío técnico real de una empresa, para el puesto de Desarrollador
 FrontEnd React Junior.
@@ -35,4 +37,6 @@ programación.
 10. El enunciado es suficientemente explicativo para avanzar, y no se responderán preguntas. En
 caso de algún supuesto o consideración que consideres relevante para la solución, por favor
 incluirlo en una sección aparte dentro del mismo README
+
+
 Teniendo en cuenta todo lo previamente pedido, desarrollar la aplicacion exactamente como se es pedido, de forma prolija y sin limite de tiempo
